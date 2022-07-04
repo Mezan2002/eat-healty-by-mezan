@@ -1,0 +1,103 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+}
+.blue {
+  color: #1390ea;
+}
+h1 {
+  font-size: 50px;
+  line-height: 25px;
+}
+.flex-content {
+  display: flex;
+  margin-left: 40px;
+}
+.banner-cont {
+  margin: 70px;
+}
+.half-width {
+  color: gray;
+  font-weight: bold;
+  width: 50%;
+  margin-left: 20px;
+}
+.half-width img {
+  width: 80%;
+  margin-left: 30px;
+}
+.half-width p {
+  margin-bottom: 70px;
+  width: 60%;
+}
+.link-btn {
+  text-decoration: none;
+  padding: 20px 50px;
+  border-radius: 50px;
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  background-image: linear-gradient(rgb(60, 133, 192), rgb(4, 80, 162));
+}
+.about-me {
+  background-image: url(../images/about-bg-2.jpg);
+  background-repeat: no-repeat;
+}
+#no-gap {
+  margin: 0;
+}
+.abt-me-img {
+  width: 80%;
+  margin-top: 80px;
+}
+.abt-me-txt {
+  margin: 140px 0 0 100px;
+  padding-left: 50px;
+}
+.abt-me-txt p {
+  color: black;
+}
+.my-res-txt {
+  text-align: center;
+  width: 50%;
+  margin: auto;
+}
+.my-res-box {
+  margin: 50px 150px 50px;
+}
+.my-res-box h2 {
+  margin-left: 120px;
+}
+.my-res-box p {
+  margin-left: 120px;
+}
+.box {
+  box-shadow: 0px 0px 50px gray;
+  border-radius: 20px;
+}
+.box img {
+  display: block;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 70%;
+}
+.sub {
+  padding: 50px;
+  margin: 100px 130px 60px 150px;
+  justify-content: space-evenly;
+  box-shadow: 0px 0px 50px gray;
+  border-radius: 20px;
+  font-weight: bold;
+}
+footer {
+  height: 100px;
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 70px;
+}
+footer span {
+  color: orange;
+}
