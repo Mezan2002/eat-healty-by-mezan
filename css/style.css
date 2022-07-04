@@ -13,9 +13,11 @@ h1 {
 .flex-content {
   display: flex;
   margin-left: 40px;
+  margin-top: 60px;
 }
 .banner-cont {
-  margin: 70px;
+  margin: 200px 0 70px 0;
+  padding-bottom: 200px;
 }
 .half-width {
   color: gray;
@@ -26,6 +28,7 @@ h1 {
 .half-width img {
   width: 80%;
   margin-left: 30px;
+  margin-top: 60px;
 }
 .half-width p {
   margin-bottom: 70px;
