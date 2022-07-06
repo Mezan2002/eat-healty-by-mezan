@@ -44,8 +44,10 @@ h1 {
   background-color: #10aefa;
 }
 .about-me {
-  background-image: url(../images/about-bg-2.jpg);
+  background-image: url(../images/about-bg.jpg);
   background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 #no-gap {
   margin: 0;
